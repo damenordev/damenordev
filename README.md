@@ -13,6 +13,7 @@ Soy desarrollador full-stack y me encanta convertir ideas en software que funcio
 
 - 🚀 Construyendo proyectos full-stack y experimentos propios
 - 🤖 Diseñando **equipos agenticos** que ejecutan tareas reales de desarrollo
+- 🧩 Publicando **plugins, skills y subagentes** para Claude Code, OpenCode y similares
 - 💬 Construyendo **chatbots con IA** conectados a herramientas vía MCP
 - ⚙️ Automatizando procesos con agentes: código, revisión, despliegues, docs
 - 🎮 En mi tiempo libre: gaming, modding y trastear con hardware
@@ -24,6 +25,7 @@ Lo que realmente hago con IA, sin humo:
 - 🤖 **Equipos agenticos** — squads de agentes especializados (scout, planner, apply, verify) que colaboran en tareas reales de desarrollo
 - 💬 **Chatbots con IA** — bots conectados a datos, herramientas y APIs vía MCP, con memoria persistente y contexto largo
 - ⚙️ **Automatización de procesos** — flujos que ejecutan tareas repetitivas: generación de código, revisión, documentación, despliegues
+- 🧩 **Plugins y herramientas** — extensiones, skills, subagentes y servidores MCP para **Claude Code**, **OpenCode** y otros entornos de IA
 - 🔌 **Integraciones MCP** — agentes enchufados a servicios reales (GitHub, ClickUp, bases de código, herramientas internas)
 - 🧠 **Memoria y contexto** — sistemas que recuerdan entre sesiones: grafos de conocimiento, resúmenes, curación continua
 
@@ -69,7 +71,7 @@ Lo que realmente hago con IA, sin humo:
 **🤖 IA y Automatización**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=openai,githubactions,docker,git" />
+  <img src="https://skillicons.dev/icons?i=openai,anthropic,claude,cursor,githubactions,docker,git" />
 </div>
 
 **🧰 Herramientas y Plataformas**
