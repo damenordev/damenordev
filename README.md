@@ -1,88 +1,93 @@
-<h2 align="left">Hi 👋! My name is David!</h2>
+<div align="center">
+  <h1>¡Hola, soy David! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" /></h1>
+  <h3>Desarrollador Full-stack</h3>
 
-###
+  <a href="https://cv.damenor.dev">
+    <img src="https://img.shields.io/badge/cv.damenor.dev-7aa2f7?style=flat-square&labelColor=16161e&logoColor=white" alt="CV" />
+  </a>
+</div>
+
+Soy desarrollador full-stack y me encanta convertir ideas en software que funciona. Trabajo desde el backend hasta interfaces limpias. Ahora estoy enfocado en aplicar IA de forma práctica: **equipos agenticos**, **chatbots conectados a herramientas** y **automatizaciones de procesos** que quitan carga al equipo.
+
+## 🔭 Actualmente
+
+- 🚀 Construyendo proyectos full-stack y experimentos propios
+- 🤖 Diseñando **equipos agenticos** que ejecutan tareas reales de desarrollo
+- 💬 Construyendo **chatbots con IA** conectados a herramientas vía MCP
+- ⚙️ Automatizando procesos con agentes: código, revisión, despliegues, docs
+- 🎮 En mi tiempo libre: gaming, modding y trastear con hardware
+
+## 🤖 IA y Automatización
+
+Lo que realmente hago con IA, sin humo:
+
+- 🤖 **Equipos agenticos** — squads de agentes especializados (scout, planner, apply, verify) que colaboran en tareas reales de desarrollo
+- 💬 **Chatbots con IA** — bots conectados a datos, herramientas y APIs vía MCP, con memoria persistente y contexto largo
+- ⚙️ **Automatización de procesos** — flujos que ejecutan tareas repetitivas: generación de código, revisión, documentación, despliegues
+- 🔌 **Integraciones MCP** — agentes enchufados a servicios reales (GitHub, ClickUp, bases de código, herramientas internas)
+- 🧠 **Memoria y contexto** — sistemas que recuerdan entre sesiones: grafos de conocimiento, resúmenes, curación continua
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damenordev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=damenordev&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damenordev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-nu-five.vercel.app/api?username=damenordev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170" alt="stats" />
+  <img src="https://github-readme-stats-nu-five.vercel.app/api/top-langs?username=damenordev&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="languages" />
 </div>
 
-###
+<br />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=damenordev&theme=tokyonight&hide_border=true&border_radius=8" height="170" alt="streak" />
 </div>
 
-###
+<br />
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/damenordev/damenordev/output/snake.svg" alt="githut-snake" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damenordev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="70%" alt="activity" />
+</div>
 
-###
+## 🛠️ Stack
+
+**💻 Lenguajes**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sass" />
+</div>
+
+**🎨 Frontend**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,angular,svelte,redux,tailwind" />
+</div>
+
+**⚙️ Backend**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,redis" />
+</div>
+
+**🤖 IA y Automatización**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=openai,githubactions,docker,git" />
+</div>
+
+**🧰 Herramientas y Plataformas**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,vscode,android,electron,godot,unity" />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/damenordev/damenordev/output/snake.svg" alt="snake" />
+  </picture>
+</div>
+
+---
+
+<sub>📫 <a href="https://cv.damenor.dev">cv.damenor.dev</a></sub>
