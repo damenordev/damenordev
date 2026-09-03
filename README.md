@@ -48,20 +48,16 @@
   <sub>Firebase · VSCode · Electron · Godot · Unity para gaming / tooling cuando toca</sub>
 </div>
 
-## 📊 GitHub en cifras
-
-<div align="center">
-  <!-- Nota: uso el mirror compatible github-stats-extended porque el endpoint oficial github-readme-stats.vercel.app está en pausa hoy (503). Conteo estándar (sin include_all_commits) para que cuadre con el perfil. Para máxima fiabilidad, despliega tu propio fork en Vercel con un PAT y cambia el dominio. -->
-  <img src="https://github-stats-extended.vercel.app/api?username=damenordev&show_icons=true&hide_border=true&theme=tokyonight" height="170" alt="stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=damenordev&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="top langs" />
-</div>
-
 ## 🐍 Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/damenordev/damenordev/output/profile-3d-contrib/profile-night-green.svg" alt="Gráfico 3D de contribuciones" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/damenordev/damenordev/output/github-snake.svg" alt="Snake comiendo mi gráfico de contribuciones" />
+  </picture>
   <br />
-  <sub>Se regenera cada noche con <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3D-Contrib</a> vía <code>.github/workflows/profile-3d.yml</code> → rama <code>output</code></sub>
+  <sub>Se regenera cada noche con <a href="https://github.com/Platane/snk">Platane/snk</a> vía <code>.github/workflows/snake.yml</code> → rama <code>output</code></sub>
 </div>
 
 ---
