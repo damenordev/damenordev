@@ -39,11 +39,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,next,angular,svelte,tailwind,nodejs,express,django,mongodb,postgres,redis,docker,git,githubactions&perline=9" alt="stack principal" />
   <br />
-  ![OpenAI](https://img.shields.io/badge/OpenAI-16161e?style=flat-square&logo=openai&logoColor=white)
-  ![Anthropic](https://img.shields.io/badge/Anthropic-16161e?style=flat-square&logo=anthropic&logoColor=D97757)
-  ![MCP](https://img.shields.io/badge/MCP-7aa2f7?style=flat-square&labelColor=16161e&logoColor=white)
-  ![Claude Code](https://img.shields.io/badge/Claude_Code-16161e?style=flat-square&logoColor=D97757)
-  ![OpenCode](https://img.shields.io/badge/OpenCode-16161e?style=flat-square&logoColor=white)
+  <img src="https://img.shields.io/badge/OpenAI-16161e?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-16161e?style=flat-square&logo=anthropic&logoColor=D97757" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/MCP-7aa2f7?style=flat-square&labelColor=16161e&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude_Code-16161e?style=flat-square&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-16161e?style=flat-square&logoColor=white" alt="OpenCode" />
   <br />
   <sub>Firebase · VSCode · Electron · Godot · Unity para gaming / tooling cuando toca</sub>
 </div>
