@@ -1,0 +1,41 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  # Cada noche a la 01:00 UTC
+  schedule:
+    - cron: "0 1 * * *"
+  # Permite lanzarlo a mano desde la pestaña Actions
+  workflow_dispatch:
+  # Genera las imágenes nada más subir cambios a main (primera vez y tras editar el README)
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+    steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: damenordev
+      - name: Commit and push to output
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el grafico 3D"
+          else
+            git commit -m "Update 3D contrib"
+            git push origin HEAD:output
+          fi
